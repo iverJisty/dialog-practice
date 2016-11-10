@@ -1,0 +1,7 @@
+URL  |  go toe URL
+/S     |  show the source code
+/L     |  select a link to go
+/D     |  select a link to download
+/B     |  bookmark
+/H     |  help page
+!cmd |  shell cmd
